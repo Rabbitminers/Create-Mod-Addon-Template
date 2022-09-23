@@ -34,7 +34,7 @@ public class AddonTemplate {
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    // TODO: Add new icon for your mod's icon group
+    // TODO: Add new icon for your mod's item group
     public static final CreativeModeTab itemGroup = new CreativeModeTab(MODID) {
         @Override
         public ItemStack makeIcon() {
