@@ -1,14 +1,11 @@
 {
   "required": true,
-  "minVersion": 0.8,
-  "package": "com.rabbitminers.mixin",
-  "compatibilityLevel": "JAVA_8",
-  "refmap": "steampowered.refmap.json",
+  "minVersion": "0.8.2",
+  "package": "com.rabbitminers.addontemplate.mixin",
+  "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-  ],
-  "injectors": {
-    "defaultRequire": 1
-  }
+    "MixinDemo"
+  ]
 }
