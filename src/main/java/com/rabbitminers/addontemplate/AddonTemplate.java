@@ -32,7 +32,7 @@ public class AddonTemplate {
     public static final String MODID = "addontemplate";
     private static final NonNullSupplier<CreateRegistrate> registrate = CreateRegistrate.lazy(AddonTemplate.MODID);
     // Directly reference a slf4j logger
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
     // TODO: Add new icon for your mod's item group
     public static final CreativeModeTab itemGroup = new CreativeModeTab(MODID) {
