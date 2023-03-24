@@ -1,5 +1,5 @@
 # Create Addon Template
-[Forge 1.18.2] A minimal template for creating Create 0.5.d addons
+[Forge 1.18.2] - (Update Instructions Included) A minimal template for creating Create 0.5 addons
 
 ## Setup
 
