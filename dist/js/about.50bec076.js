@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaddon_templatinator"]=self["webpackChunkaddon_templatinator"]||[]).push([[443],{4466:function(n,t,a){a.r(t),a.d(t,{default:function(){return l}});var e=a(3396);const r={class:"about"},u=(0,e._)("h1",null,"TODO",-1),o=[u];function c(n,t,a,u,c,s){return(0,e.wg)(),(0,e.iD)("div",r,o)}var s={name:"about"},d=a(89);const i=(0,d.Z)(s,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=about.50bec076.js.map
